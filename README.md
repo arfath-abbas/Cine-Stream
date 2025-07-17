@@ -1,13 +1,6 @@
 # CineStream
 
-https://suspicious-morse-6976ef.netlify.app/
-
-![GitHub repo size](https://img.shields.io/github/repo-size/arfath-abbas/Cine-Stream.git)
-![GitHub followers](https://img.shields.io/github/followers/arfath-abbas?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/arfath-abbas/Cine-Stream.git)
-![GitHub top language](https://img.shields.io/github/languages/top/arfath-abbas/Cine-Stream.git)
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+https://cine-stream-one.vercel.app/
 
 
 Project name is `CineStream` that allows `users` to get the information of all latest and trending movies.
