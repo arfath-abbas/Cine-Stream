@@ -3,11 +3,11 @@
 https://cine-stream-one.vercel.app/
 
 
-Project name is `CineStream` that allows `users` to get the information of all latest and trending movies.
+`CineStream` allows `users` to get the information of all latest and trending movies.
 
-The user can simply go to the app and see the trending movies around the World rated by MovieDB. The user has the option to switch between diffrent Genre. 
+The user can simply go to the app and see the trending movies around the World rated by MovieDB. The user has the option to switch between different Genre. 
 There will be options for Movies or Series, and the user can watch accordingly. He can also search for any movie manually and there will be options to watch the official 
-Trailor, little discription of movie and the star cast  of the movie.
+Trailor, little description of movie and the star cast  of the movie.
 
 
 ### Prerequisites
